@@ -40,8 +40,3 @@ http://127.0.0.1:8000/vehicle/3
 
 Qualquer dúvida só entrar em contato pelo email:
 viniciusleite.desenvolvedor@gmail.com
-
-
-
-
->>>>>>> b8fb8bff17306b8acde051b4cfdb3f2872f6f7e1
